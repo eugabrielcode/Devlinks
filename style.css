@@ -25,14 +25,7 @@
 }
 
 body {
-<<<<<<< HEAD
   background: var(--bg-url) no-repeat top center/cover;
-=======
-  background-image: var(--bg-url);
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-size: cover;
->>>>>>> 4106fb4 (change background)
   height: 100vh;
 }
 
@@ -174,10 +167,7 @@ footer {
   font-size: 14px;
 }
 
-<<<<<<< HEAD
 /* media queries */
-=======
->>>>>>> 4106fb4 (change background)
 @media (min-width: 700px) {
   :root {
     --bg-url: url(./assets/bg-desktop.jpg);
@@ -186,7 +176,6 @@ footer {
   .light {
     --bg-url: url(./assets/bg-desktop-light.jpg);
   }
-<<<<<<< HEAD
 }
 
 /* animation */
@@ -207,6 +196,3 @@ footer {
     left: 0;
   }
 }
-=======
-}
->>>>>>> 4106fb4 (change background)
